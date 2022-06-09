@@ -850,9 +850,9 @@
             </VASSAL.build.module.folder.PrototypeFolder>
         </VASSAL.build.module.folder.PrototypeFolder>
     </VASSAL.build.module.PrototypesContainer>
-    <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="Map" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="" icon="/images/map.gif" launch="false" mapName="Main Map" markMoved="Always" markUnmovedHotkey="79,715" markUnmovedIcon="Button-Clear.png" markUnmovedReport="&lt;b&gt;$PlayerName$ cleared movement history for all pieces." markUnmovedText="" markUnmovedTooltip="Clear movement history for all pieces on this map" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="5">
+    <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="Map" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="" icon="/images/map.gif" launch="false" mapName="Main Map" markMoved="Always" markUnmovedHotkey="79,715" markUnmovedIcon="Button-Clear.png" markUnmovedReport="&lt;b&gt;$PlayerName$ cleared movement history for all pieces." markUnmovedText="" markUnmovedTooltip="Clear movement history for all pieces on this map" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="5">
         <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
-            <VASSAL.build.module.map.boardPicker.Board image="Inferno on Table.png" name="Inferno" reversible="false">
+            <VASSAL.build.module.map.boardPicker.Board image="Inferno on Table.jpg" name="Inferno" reversible="false">
                 <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.ZonedGridHighlighter/>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$name$" name="Turn 0" path="1895,3011;1895,3317;2150,3316;2149,3010" useHighlight="false" useParentGrid="false"/>
