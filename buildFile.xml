@@ -2,7 +2,7 @@
 <VASSAL.build.GameModule ModuleOther1="" ModuleOther2="" VassalVersion="3.6.8-SNAPSHOT-f94276f-AlwaysUseLabelFormat" description="Guelphs and Ghibellines Vie for Tuscany 1259-1261 (Enrico Acerbi &amp; Volko Ruhnke)" name="Inferno" nextPieceSlotId="1502" version="1.0">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
-        <VASSAL.build.module.documentation.AboutScreen fileName="CoverFrontHalf.png" title="About Module"/>
+        <VASSAL.build.module.documentation.AboutScreen fileName="InfernoBox350.jpg" title="About Module"/>
         <VASSAL.build.module.documentation.BrowserPDFFile pdfFile="Inferno Rules proof11.pdf" title="Rulebook"/>
     </VASSAL.build.module.Documentation>
     <VASSAL.build.module.PlayerRoster buttonIcon="system-log-out.png" buttonKeyStroke="83,130" buttonText="" buttonToolTip="Switch sides, become an observer, or allow another player to take your side in this game">
@@ -228,7 +228,7 @@
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Guelph" name="GlobalGuelphName"/>
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Ghibellines" name="GlobalGhibellinesName"/>
         <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Ghibelline" name="GlobalGhibellineName"/>
-        <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Almoravid - Vassal Module 1.0 - 17-Oct-2021" name="WelcomeMessage"/>
+        <VASSAL.build.module.properties.GlobalTranslatableMessage description="" initialValue="Inferno - Vassal Module 1.0 - 23-Jun-2022" name="WelcomeMessage"/>
     </VASSAL.build.module.properties.GlobalTranslatableMessages>
     <VASSAL.build.module.PrototypesContainer>
         <VASSAL.build.module.folder.PrototypeFolder desc="" name="Cards">
@@ -1663,8 +1663,8 @@
                 <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
                 <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
                 <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="67" width="67">+/null/prototype;Armigeri	piece;;;;/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;0;0;666;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;0;0;670;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;0;0;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;0;0;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
@@ -2099,7 +2099,7 @@
         <VASSAL.build.module.map.SelectionHighlighters/>
         <VASSAL.build.module.map.HighlightLastMoved color="255,0,0" enabled="true" thickness="2"/>
         <VASSAL.build.module.map.LayeredPieceCollection layerOrder="Locations,Cards,Mats,Markers,Forces" property="Layer"/>
-        <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.1,0.125,0.15,0.2,0.25,0.3,0.34,0.4,0.5,0.6,0.75,1.0" zoomOutKey="" zoomPickKey="" zoomStart="3"/>
+        <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.1,0.125,0.15,0.2,0.25,0.3,0.34,0.4,0.5,0.6,0.75,1.0" zoomOutKey="" zoomPickKey="" zoomStart="1"/>
         <VASSAL.build.module.map.SetupStack name="Battle Mat Piece" useGridLocation="false" x="430" y="430">
             <VASSAL.build.widget.PieceSlot entryName="Battle Mat" gpid="1235" height="64" width="75">+/null/prototype;Battle Mat	piece;;;;Battle Mat/	null;0;0;1235;0</VASSAL.build.widget.PieceSlot>
         </VASSAL.build.module.map.SetupStack>
@@ -2308,6 +2308,6 @@
         <VASSAL.build.module.PredefinedSetup file="Scenario_F_Reconquista_and_Riposte.vsav" isMenu="false" name="Scenario F - Reconquista and Riposte" useFile="true"/>
     </VASSAL.build.module.PredefinedSetup>
     <VASSAL.build.module.PredefinedSetup isMenu="false" name="Start With Blank Map" useFile="false"/>
-    <VASSAL.build.module.StartupGlobalKeyCommand buttonHotkey="" buttonText="" canDisable="false" deckCount="-1" filter="" hotkey="" icon="" name="Welcome Message" propertyGate="" reportFormat="&lt;img src=&quot;d6-green-1.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-2.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-green-3.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;b&gt;  $WelcomeMessage$  &lt;/b&gt;&lt;img src=&quot;d6-yellow-4.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-green-5.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-6.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;" reportSingle="false" singleMap="true" target="MODULE|false|MAP|||||0|0||false|||EQUALS" tooltip="" whenToApply="everyLaunchOfSession"/>
+    <VASSAL.build.module.StartupGlobalKeyCommand buttonHotkey="" buttonText="" canDisable="false" deckCount="-1" disabledIcon="" filter="" hotkey="" icon="" name="Welcome Message" propertyGate="" reportFormat="&lt;img src=&quot;d6-purple-1.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-2.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-purple-3.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;b&gt;  $WelcomeMessage$  &lt;/b&gt;&lt;img src=&quot;d6-yellow-4.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-purple-5.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-6.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;" reportSingle="false" singleMap="true" target="MODULE|false|MAP|||||0|0||false|||EQUALS" tooltip="" whenToApply="everyLaunchOfSession"/>
     <VASSAL.i18n.Language/>
 </VASSAL.build.GameModule>
