@@ -1142,12 +1142,17 @@
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$name$" name="All Lords" path="1831,3715;4379,3715;4379,3311;3968,3309;3628,3309;3628,3274;1830,3274" useHighlight="false" useParentGrid="false">
                         <VASSAL.build.module.map.boardPicker.board.RegionGrid fontsize="9" snapto="true" visible="false">
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 1" originx="2043" originy="3400"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 2" originx="2468" originy="3400"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 3" originx="2893" originy="3400"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 4" originx="3318" originy="3400"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 5" originx="3743" originy="3400"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 6" originx="4168" originy="3400"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 1" originx="2043" originy="3399"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 2" originx="2468" originy="3399"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 3" originx="2893" originy="3399"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 4" originx="3318" originy="3399"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 5" originx="3743" originy="3399"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 6" originx="4168" originy="3399"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 7" originx="2256" originy="3661"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 8" originx="2681" originy="3661"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 9" originx="3106" originy="3661"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 10" originx="3531" originy="3661"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Card 11" originx="3956" originy="3661"/>
                         </VASSAL.build.module.map.boardPicker.board.RegionGrid>
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$name$" name="Decks" path="1000,3800;5200,3800;5200,4600;1000,4600" useHighlight="false" useParentGrid="false"/>
