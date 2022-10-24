@@ -1614,71 +1614,71 @@
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="67" width="67">+/null/prototype;Ritter	piece;;;;/	null;29;37;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="67" width="67">+/null/prototype;Cavalieri	piece;;;;/	null;29;37;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="67" width="67">+/null/prototype;Berrovieri	piece;;;;/	null;29;37;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;29;37;662;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;/	null;29;37;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="67" width="67">+/null/prototype;Armigeri	piece;;;;/	null;29;37;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;29;37;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;29;37;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="67" width="67">+/null/prototype;Ritter	piece;;;;/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="67" width="67">+/null/prototype;Cavalieri	piece;;;;/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="67" width="67">+/null/prototype;Berrovieri	piece;;;;/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="67" width="67">+/null/prototype;Armigeri	piece;;;;/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;0;0;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;0;0;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="54" width="54">+/null/prototype;Cart Marker 1	piece;;;;/	null;23;24;432;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Coin" gpid="449" height="54" width="54">+/null/prototype;Coin Marker 1	piece;;;;/	null;23;24;449;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Loot" gpid="451" height="54" width="54">+/null/prototype;Loot Marker 1	piece;;;;/	null;23;24;451;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Provender" gpid="455" height="54" width="54">+/null/prototype;Provender Marker 1	piece;;;;/	null;23;24;455;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Ship" gpid="453" height="54" width="54">+/null/prototype;Ship Marker 1	piece;;;;/	null;23;24;453;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Cart (x2)" gpid="1488" height="54" width="54">+/null/prototype;Cart Marker 2	piece;;;;/	null;23;24;1488;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Coin (x2)" gpid="1489" height="54" width="54">+/null/prototype;Coin Marker 2	piece;;;;/	null;23;24;1489;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Loot x2" gpid="1490" height="54" width="54">+/null/prototype;Loot Marker 2	piece;;;;/	null;23;24;1490;1;ppScale;0.42</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Provender x2" gpid="1491" height="54" width="54">+/null/prototype;Provender Marker 2	piece;;;;/	null;23;24;1491;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Ship x2" gpid="1492" height="54" width="54">+/null/prototype;Ship Marker 2	piece;;;;/	null;23;24;1492;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Cart (x3)" gpid="1493" height="54" width="54">+/null/prototype;Cart Marker 3	piece;;;;/	null;23;24;1493;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Coin (x3)" gpid="1494" height="54" width="54">+/null/prototype;Coin Marker 3	piece;;;;/	null;23;24;1494;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Loot x3" gpid="1495" height="54" width="54">+/null/prototype;Loot Marker 3	piece;;;;/	null;23;24;1495;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Provender x3" gpid="1496" height="54" width="54">+/null/prototype;Provender Marker 3	piece;;;;/	null;23;24;1496;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Ship x3" gpid="1497" height="54" width="54">+/null/prototype;Ship Marker 3	piece;;;;/	null;23;24;1497;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Coin" gpid="449" height="26" width="31">+/null/prototype;Coin Marker 1	piece;;;;/	null;0;0;449;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Loot" gpid="451" height="26" width="31">+/null/prototype;Loot Marker 1	piece;;;;/	null;0;0;451;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Provender" gpid="455" height="26" width="31">+/null/prototype;Provender Marker 1	piece;;;;/	null;0;0;455;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ship" gpid="453" height="26" width="31">+/null/prototype;Ship Marker 1	piece;;;;/	null;0;0;453;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cart (x2)" gpid="1488" height="26" width="31">+/null/prototype;Cart Marker 2	piece;;;;/	null;0;0;1488;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Coin (x2)" gpid="1489" height="26" width="31">+/null/prototype;Coin Marker 2	piece;;;;/	null;0;0;1489;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Loot x2" gpid="1490" height="26" width="31">+/null/prototype;Loot Marker 2	piece;;;;/	null;0;0;1490;1;ppScale;0.42</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Provender x2" gpid="1491" height="26" width="31">+/null/prototype;Provender Marker 2	piece;;;;/	null;0;0;1491;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ship x2" gpid="1492" height="26" width="31">+/null/prototype;Ship Marker 2	piece;;;;/	null;0;0;1492;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cart (x3)" gpid="1493" height="26" width="31">+/null/prototype;Cart Marker 3	piece;;;;/	null;0;0;1493;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Coin (x3)" gpid="1494" height="26" width="31">+/null/prototype;Coin Marker 3	piece;;;;/	null;0;0;1494;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Loot x3" gpid="1495" height="26" width="31">+/null/prototype;Loot Marker 3	piece;;;;/	null;0;0;1495;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Provender x3" gpid="1496" height="26" width="31">+/null/prototype;Provender Marker 3	piece;;;;/	null;0;0;1496;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ship x3" gpid="1497" height="26" width="31">+/null/prototype;Ship Marker 3	piece;;;;/	null;0;0;1497;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="VP" fixed="true" nColumns="3" scale="0.6" vert="false">
                 <VASSAL.build.widget.PanelWidget fixed="false" nColumns="3" scale="0.5" vert="false">
-                    <VASSAL.build.widget.PieceSlot entryName="Conquered Marker" gpid="369" height="65" width="65">+/null/prototype;Conquered Marker Start Guelph	piece;;;;Conquered Marker/	null;39;37;369;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Conquered Marker" gpid="369" height="32" width="37">+/null/prototype;Conquered Marker Start Guelph	piece;;;;Conquered Marker/	null;0;0;369;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.widget.PanelWidget>
                 <VASSAL.build.widget.PanelWidget fixed="false" nColumns="3" scale="0.5" vert="false">
-                    <VASSAL.build.widget.PieceSlot entryName="Conquered Marker" gpid="363" height="65" width="65">+/null/prototype;Conquered Marker Start Ghibelline	piece;;;;Conquered Marker/	null;39;37;363;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Conquered Marker" gpid="363" height="32" width="37">+/null/prototype;Conquered Marker Start Ghibelline	piece;;;;Conquered Marker/	null;0;0;363;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.widget.PanelWidget>
-                <VASSAL.build.widget.PieceSlot entryName="Ravaged Marker (Guelphs)" gpid="498" height="148" width="148">+/null/prototype;Ravaged Marker Guelph	piece;;;;/	null;39;37;498;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Ravaged Marker (Ghibellines)" gpid="500" height="148" width="148">+/null/prototype;Ravaged Marker Ghibelline	piece;;;;/	null;39;37;500;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Ruins Marker (Guelphs)" gpid="1499" height="64" width="64">+/null/prototype;Ruins Marker Guelph	piece;;;;/	null;39;37;1499;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Ruins Marker (Ghibellines)" gpid="1501" height="64" width="64">+/null/prototype;Ruins Marker Ghibelline	piece;;;;/	null;39;37;1501;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ravaged Marker (Guelphs)" gpid="498" height="38" width="45">+/null/prototype;Ravaged Marker Guelph	piece;;;;/	null;0;0;498;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ravaged Marker (Ghibellines)" gpid="500" height="38" width="45">+/null/prototype;Ravaged Marker Ghibelline	piece;;;;/	null;0;0;500;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ruins Marker (Guelphs)" gpid="1499" height="38" width="45">+/null/prototype;Ruins Marker Guelph	piece;;;;/	null;0;0;1499;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ruins Marker (Ghibellines)" gpid="1501" height="38" width="45">+/null/prototype;Ruins Marker Ghibelline	piece;;;;/	null;0;0;1501;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Misc" fixed="true" nColumns="4" scale="0.55" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Siege Marker" gpid="388" height="71" width="71">+/null/prototype;Siege Marker Start Guelph	piece;;;;/	null;23;37;388;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Siege Marker" gpid="390" height="71" width="71">+/null/prototype;Siege Marker Start Ghibelline	piece;;;;/	null;23;37;390;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Supply Source Marker" gpid="398" height="71" width="71">+/null/prototype;Supply Source Marker	piece;;;;Supply Source Marker/	null;0;0;398;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Moved / Fought Marker" gpid="400" height="71" width="71">+/null/prototype;Moved Fought Marker	piece;;;;Moved \/ Fought Marker/	null;23;37;400;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="+1 Walls Marker" gpid="1881" height="71" width="71">+/null/prototype;Walls Marker Start Guelph	piece;;;;/	null;0;0;1881;1;ppScale;0.42</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="+1 Walls Marker" gpid="1882" height="71" width="71">+/null/prototype;Walls Marker Start Ghibelline	piece;;;;/	null;0;0;1882;1;ppScale;0.42</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Siege Marker" gpid="388" height="35" width="41">+/null/prototype;Siege Marker Start Guelph	piece;;;;/	null;0;0;388;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Siege Marker" gpid="390" height="35" width="41">+/null/prototype;Siege Marker Start Ghibelline	piece;;;;/	null;0;0;390;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Supply Source Marker" gpid="398" height="35" width="41">+/null/prototype;Supply Source Marker	piece;;;;Supply Source Marker/	null;0;0;398;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Moved / Fought Marker" gpid="400" height="35" width="41">+/null/prototype;Moved Fought Marker	piece;;;;Moved \/ Fought Marker/	null;0;0;400;2;ClickedX;0;ClickedY;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="+1 Walls Marker" gpid="1881" height="35" width="41">+/null/prototype;Walls Marker Start Guelph	piece;;;;/	null;0;0;1881;1;ppScale;0.42</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="+1 Walls Marker" gpid="1882" height="35" width="41">+/null/prototype;Walls Marker Start Ghibelline	piece;;;;/	null;0;0;1882;1;ppScale;0.42</VASSAL.build.widget.PieceSlot>
                 <VASSAL.build.widget.PanelWidget fixed="false" nColumns="3" scale="0.68" vert="false">
-                    <VASSAL.build.widget.PieceSlot entryName="Bypass Marker" gpid="496" height="73" width="73">+/null/prototype;Bypass Marker	piece;;;;Bypass Marker/	null;23;37;496;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Bypass Marker" gpid="496" height="43" width="51">+/null/prototype;Bypass Marker	piece;;;;Bypass Marker/	null;0;0;496;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.widget.PanelWidget>
                 <VASSAL.build.widget.PanelWidget fixed="false" nColumns="3" scale="0.68" vert="false">
-                    <VASSAL.build.widget.PieceSlot entryName="Feed Marker" gpid="483" height="73" width="73">+/null/prototype;Feed x2 Marker	piece;;;;Feed Marker/	null;0;0;483;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Feed Marker" gpid="483" height="43" width="51">+/null/prototype;Feed x2 Marker	piece;;;;Feed Marker/	null;0;0;483;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.widget.PanelWidget>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="#" fixed="true" nColumns="6" scale="0.33" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="456" height="42" width="42">+/null/prototype;Number 1 Guelph	piece;;;;Number Marker/	null;19;37;456;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="462" height="42" width="42">+/null/prototype;Number 2 Guelph	piece;;;;Number Marker/	null;19;37;462;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="464" height="42" width="42">+/null/prototype;Number 3 Guelph	piece;;;;Number Marker/	null;19;37;464;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="466" height="42" width="42">+/null/prototype;Number 4 Guelph	piece;;;;Number Marker/	null;19;37;466;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="468" height="42" width="42">+/null/prototype;Number 5 Guelph	piece;;;;Number Marker/	null;19;37;468;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="470" height="42" width="42">+/null/prototype;Number 6 Guelph	piece;;;;Number Marker/	null;19;37;470;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="472" height="42" width="42">+/null/prototype;Number 1 Ghibelline	piece;;;;Number Marker/	null;19;37;472;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="474" height="42" width="42">+/null/prototype;Number 2 Ghibelline	piece;;;;Number Marker/	null;19;37;474;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="476" height="42" width="42">+/null/prototype;Number 3 Ghibelline	piece;;;;Number Marker/	null;19;37;476;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="478" height="42" width="42">+/null/prototype;Number 4 Ghibelline	piece;;;;Number Marker/	null;19;37;478;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="480" height="42" width="42">+/null/prototype;Number 5 Ghibelline	piece;;;;Number Marker/	null;19;37;480;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="482" height="42" width="42">+/null/prototype;Number 6 Ghibelline	piece;;;;Number Marker/	null;19;37;482;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="456" height="21" width="24">+/null/prototype;Number 1 Guelph	piece;;;;Number Marker/	null;0;0;456;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="462" height="21" width="24">+/null/prototype;Number 2 Guelph	piece;;;;Number Marker/	null;0;0;462;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="464" height="21" width="24">+/null/prototype;Number 3 Guelph	piece;;;;Number Marker/	null;0;0;464;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="466" height="21" width="24">+/null/prototype;Number 4 Guelph	piece;;;;Number Marker/	null;0;0;466;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="468" height="21" width="24">+/null/prototype;Number 5 Guelph	piece;;;;Number Marker/	null;0;0;468;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="470" height="21" width="24">+/null/prototype;Number 6 Guelph	piece;;;;Number Marker/	null;0;0;470;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="472" height="21" width="24">+/null/prototype;Number 1 Ghibelline	piece;;;;Number Marker/	null;0;0;472;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="474" height="21" width="24">+/null/prototype;Number 2 Ghibelline	piece;;;;Number Marker/	null;0;0;474;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="476" height="21" width="24">+/null/prototype;Number 3 Ghibelline	piece;;;;Number Marker/	null;0;0;476;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="478" height="21" width="24">+/null/prototype;Number 4 Ghibelline	piece;;;;Number Marker/	null;0;0;478;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="480" height="21" width="24">+/null/prototype;Number 5 Ghibelline	piece;;;;Number Marker/	null;0;0;480;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Number Marker" gpid="482" height="21" width="24">+/null/prototype;Number 6 Ghibelline	piece;;;;Number Marker/	null;0;0;482;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
         </VASSAL.build.widget.TabWidget>
     </VASSAL.build.module.PieceWindow>
@@ -1909,7 +1909,7 @@
         </VASSAL.build.module.PrivateMap>
         <VASSAL.build.module.PrivateMap allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="77,585" icon="Button-CylinderYellow_1.png" launch="true" mapName="Ghibelline Lords" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57506,0,MovedOnLordsMap" moveToFormat="" moveWithinFormat="" showKey="" side="Ghibellines,Solitaire" thickness="3" tooltip="Ghibelline Hidden Lords (Fog of War rules)" visible="false">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
-                <VASSAL.build.module.map.boardPicker.Board image="Background - Ghibelline Lords.png" name="Alhambra" reversible="false">
+                <VASSAL.build.module.map.boardPicker.Board image="HiddenMatsBackground.png" name="Canvas" reversible="false">
                     <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
                         <VASSAL.build.module.map.boardPicker.board.mapgrid.ZonedGridHighlighter/>
                         <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Ghibelline Command Card Planning" path="0,0;4508,0;4508,2888;0,2888" useHighlight="false" useParentGrid="false">
@@ -1978,7 +1978,7 @@
         </VASSAL.build.module.PrivateMap>
         <VASSAL.build.module.PrivateMap allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="67,585" icon="Button-CylinderPurple_1.png" launch="true" mapName="Guelph Lords" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57506,0,MovedOnLordsMap" moveToFormat="" moveWithinFormat="" showKey="" side="Guelphs,Solitaire" thickness="3" tooltip="Guelph Hidden Lords (Fog of War rules)" visible="false">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
-                <VASSAL.build.module.map.boardPicker.Board image="Background - Guelph Lords.png" name="Alhambra" reversible="false">
+                <VASSAL.build.module.map.boardPicker.Board image="HiddenMatsBackground.png" name="Canvas" reversible="false">
                     <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
                         <VASSAL.build.module.map.boardPicker.board.mapgrid.ZonedGridHighlighter/>
                         <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Guelph Command Card Planning" path="0,0;3636,0;3636,2884;0,2884" useHighlight="false" useParentGrid="false">
@@ -2040,7 +2040,7 @@
     </VASSAL.build.module.folder.ModuleSubFolder>
     <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="82,520" icon="Button-Removed.png" launch="true" mapName="Removed From Game" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Removed-from-Game">
         <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
-            <VASSAL.build.module.map.boardPicker.Board image="Background - Guelph Lords.png" name="Alhambra" reversible="false">
+            <VASSAL.build.module.map.boardPicker.Board image="HiddenMatsBackground.png" name="Canvas" reversible="false">
                 <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.ZonedGridHighlighter/>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$name$" name="Removed From Game" path="0,0;3636,0;3636,2884;0,2884" useHighlight="false" useParentGrid="false"/>
