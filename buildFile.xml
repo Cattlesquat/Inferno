@@ -1614,14 +1614,14 @@
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="38" width="45">+/null/prototype;Ritter	piece;;;;/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="38" width="45">+/null/prototype;Cavalieri	piece;;;;/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="38" width="45">+/null/prototype;Berrovieri	piece;;;;/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="38" width="45">+/null/prototype;Light Horse	piece;;;;/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="38" width="45">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="38" width="45">+/null/prototype;Armigeri	piece;;;;/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="38" width="45">+/null/prototype;Villici	piece;;;;/	null;0;0;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="38" width="45">+/null/prototype;Militia	piece;;;;/	null;0;0;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="67" width="67">+/null/prototype;Ritter	piece;;;;/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="67" width="67">+/null/prototype;Cavalieri	piece;;;;/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="67" width="67">+/null/prototype;Berrovieri	piece;;;;/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="67" width="67">+/null/prototype;Armigeri	piece;;;;/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;0;0;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;0;0;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
@@ -1795,7 +1795,7 @@
                 </VASSAL.build.module.map.SetupStack>
             </VASSAL.build.module.folder.MapSubFolder>
         </VASSAL.build.module.PrivateMap>
-        <VASSAL.build.module.PrivateMap allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="67,520" icon="Button-Card-AW-PURPLE-BACK.png" launch="true" mapName="Guelph Hand" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57358,0,MovedInHand" moveToFormat="" moveWithinFormat="" showKey="" side="Guelphs,Solitaire" thickness="3" tooltip="Guelph Command Card Planning" visible="false">
+        <VASSAL.build.module.PrivateMap allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="67,520" icon="Button-Card-CC-PURPLE-BACK.png" launch="true" mapName="Guelph Hand" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57358,0,MovedInHand" moveToFormat="" moveWithinFormat="" showKey="" side="Guelphs,Solitaire" thickness="3" tooltip="Guelph Command Card Planning" visible="false">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board image="CommandCardPlanning.png" name="Alhambra" reversible="false">
                     <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
@@ -2032,7 +2032,7 @@
             </VASSAL.build.module.map.SetupStack>
         </VASSAL.build.module.PrivateMap>
     </VASSAL.build.module.folder.ModuleSubFolder>
-    <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="82,520" icon="Button-Removed.png" launch="true" mapName="Removed From Game" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Removed-from-Game">
+    <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="82,520" icon="Button-removed.png" launch="true" mapName="Removed From Game" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Removed-from-Game">
         <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
             <VASSAL.build.module.map.boardPicker.Board image="HiddenMatsBackground.png" name="Canvas" reversible="false">
                 <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
@@ -2062,7 +2062,7 @@
             <VASSAL.build.widget.PieceSlot entryName=" (Removed From Game)" gpid="1244" height="64" width="75">+/null/prototype;Removed From Game Header	piece;;;;/	null;0;0;1244;0</VASSAL.build.widget.PieceSlot>
         </VASSAL.build.module.map.SetupStack>
     </VASSAL.build.module.Map>
-    <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="66,585" icon="Button-Horseman.png" launch="true" mapName="Battle Mat" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Clear movement history for all pieces on this map" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Battle Mat">
+    <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="66,585" icon="Button-tobattle.png" launch="true" mapName="Battle Mat" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Clear movement history for all pieces on this map" moveKey="57344,0,MovedOnMap" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Battle Mat">
         <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
             <VASSAL.build.module.map.boardPicker.Board image="Inferno Battle Mat.jpg" name="Battle Mat" reversible="false">
                 <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
@@ -2203,7 +2203,7 @@
             <VASSAL.build.module.map.HighlightLastMoved color="255,0,0" enabled="true" thickness="2"/>
             <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.25,0.33,0.4,0.5,0.6,0.75,1.0,1.25" zoomOutKey="" zoomPickKey="" zoomStart="4"/>
         </VASSAL.build.module.Map>
-        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="84,520" icon="Button-Sequence.png" launch="true" mapName="Guelphs" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Guelph Lords and Vassals - Player Aid">
+        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="84,520" icon="Button-guelphlords.png" launch="true" mapName="Guelphs" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Guelph Lords and Vassals - Player Aid">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board image="PAC-Guelphs.jpg" name="Guelphs" reversible="false"/>
             </VASSAL.build.module.map.BoardPicker>
@@ -2223,7 +2223,7 @@
             <VASSAL.build.module.map.HighlightLastMoved color="255,0,0" enabled="true" thickness="2"/>
             <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.25,0.33,0.4,0.5,0.6,0.75,1.0,1.25" zoomOutKey="" zoomPickKey="" zoomStart="4"/>
         </VASSAL.build.module.Map>
-        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="73,520" icon="Button-Iberia.png" launch="true" mapName="Ghibellines" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Ghibellines Lords and Vassals - Player Aid">
+        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="73,520" icon="Button-ghiblords.png" launch="true" mapName="Ghibellines" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Ghibellines Lords and Vassals - Player Aid">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board image="PAC-Ghibellines.jpg" name="Iberia" reversible="false"/>
             </VASSAL.build.module.map.BoardPicker>
@@ -2243,7 +2243,7 @@
             <VASSAL.build.module.map.HighlightLastMoved color="255,0,0" enabled="true" thickness="2"/>
             <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.25,0.33,0.4,0.5,0.6,0.75,1.0,1.25" zoomOutKey="" zoomPickKey="" zoomStart="4"/>
         </VASSAL.build.module.Map>
-        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="73,520" icon="Button-Iberia.png" launch="true" mapName="Revolt and Treachery" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Revolt and Treachery - Player Aid">
+        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="73,520" icon="Button-treachery.png" launch="true" mapName="Revolt and Treachery" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Revolt and Treachery - Player Aid">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board image="PAC-Revolt1.jpg" name="Revolt" reversible="false"/>
             </VASSAL.build.module.map.BoardPicker>
@@ -2263,7 +2263,7 @@
             <VASSAL.build.module.map.HighlightLastMoved color="255,0,0" enabled="true" thickness="2"/>
             <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.25,0.33,0.4,0.5,0.6,0.75,1.0,1.25" zoomOutKey="" zoomPickKey="" zoomStart="4"/>
         </VASSAL.build.module.Map>
-        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="73,520" icon="Button-Iberia.png" launch="true" mapName="Revolt Tables" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Revolt Tables - Player Aid">
+        <VASSAL.build.module.Map allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="73,520" icon="Button-revolttables.png" launch="true" mapName="Revolt Tables" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="" moveToFormat="" moveWithinFormat="" showKey="" thickness="3" tooltip="Revolt Tables - Player Aid">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board image="PAC-Revolt2.jpg" name="Revolt" reversible="false"/>
             </VASSAL.build.module.map.BoardPicker>
@@ -2284,7 +2284,7 @@
             <VASSAL.build.module.map.Zoomer inButtonText="" inIconName="zoom-in.png" inTooltip="Zoom in" outButtonText="" outIconName="zoom-out.png" outTooltip="Zoom out" pickButtonText="" pickIconName="zoom-fit-best.png" pickTooltip="Select Zoom" zoomInKey="" zoomLevels="0.25,0.33,0.4,0.5,0.6,0.75,1.0,1.25" zoomOutKey="" zoomPickKey="" zoomStart="4"/>
         </VASSAL.build.module.Map>
     </VASSAL.build.module.folder.ModuleSubFolder>
-    <VASSAL.build.module.NotesWindow buttonText="" description="Notes Window" hotkey="78,520" icon="notes_button.gif" tooltip="Notes Window for Public and Private Notes"/>
+    <VASSAL.build.module.NotesWindow buttonText="" description="Notes Window" hotkey="78,520" icon="Button-notes.png" tooltip="Notes Window for Public and Private Notes"/>
     <VASSAL.build.module.folder.ModuleSubFolder desc="" name="Scenario Updating Tools">
         <VASSAL.build.module.GlobalKeyCommand buttonHotkey="" buttonText="" canDisable="false" deckCount="-1" disabledIcon="" filter="{(BasicName==&quot;M17 - León y Castilla Rivalry / Arrada&quot;)}" hotkey="57423,0,DebugReportPosition" icon="" name="Enabled to send commands to things" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MODULE|false|MAP|||||0|0||false|||EQUALS" tooltip=""/>
         <VASSAL.build.module.PieceWindow defaultWidth="0" hidden="true" hotkey="83,715" icon="Button-Crescent.png" name="Scenario Updating Palette" scale="1.0" text="Scenario" tooltip="Show/Hide the Scenario Updating palette">
