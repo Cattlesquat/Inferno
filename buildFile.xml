@@ -1482,25 +1482,25 @@
         </VASSAL.build.module.folder.MapSubFolder>
         <VASSAL.build.module.folder.MapSubFolder desc="" name="Mat Locations - the blank mat outlines left &amp; right of the board">
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 0,0" useGridLocation="false" x="4872" y="566">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="600" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/1	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="600" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/1	\	null;0;0;600;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 1,0" useGridLocation="false" x="5750" y="566">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="599" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/2	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="599" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/2	\	null;0;0;599;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 0,1" useGridLocation="false" x="4872" y="1866">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="602" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/3	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="602" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/3	\	null;0;0;602;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 1,1" useGridLocation="false" x="5750" y="1866">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="604" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/4	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="604" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/4	\	null;0;0;604;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 0,2" useGridLocation="false" x="4872" y="3166">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="605" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/5	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="605" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/5	\	null;0;0;605;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 1,2" useGridLocation="false" x="5750" y="3166">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="606" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/6	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="606" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/6	\	null;0;0;606;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Guelph Lords Area" name="C 0,3" useGridLocation="false" x="5750" y="4466">
-                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="607" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/7	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Guelph Lord Mat" gpid="607" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Guelph\	piece;;;;Guelph Lord Mat/7	\	null;0;0;607;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Ghibelline Lords Area" name="M 0,0" useGridLocation="false" x="485" y="566">
                 <VASSAL.build.widget.PieceSlot entryName="Ghibelline Lord Mat" gpid="609" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Ghibelline\	piece;;;;Ghibelline Lord Mat/1	\	null;0;0;609;0</VASSAL.build.widget.PieceSlot>
@@ -1521,7 +1521,7 @@
                 <VASSAL.build.widget.PieceSlot entryName="Ghibelline Lord Mat" gpid="615" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Ghibelline\	piece;;;;Ghibelline Lord Mat/6	\	null;0;0;615;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
             <VASSAL.build.module.map.SetupStack location="Ghibelline Lords Area" name="M 0,3" useGridLocation="false" x="485" y="4466">
-                <VASSAL.build.widget.PieceSlot entryName="Ghibelline Lord Mat" gpid="616" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Ghibelline\	piece;;;;Ghibelline Lord Mat/7	\	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ghibelline Lord Mat" gpid="616" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Ghibelline\	piece;;;;Ghibelline Lord Mat/7	\	null;0;0;616;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
         </VASSAL.build.module.folder.MapSubFolder>
         <VASSAL.build.module.folder.MapSubFolder desc="" name="Locations - Towns and Strongholds (invisible &quot;pieces&quot; that allow right-clicking on map locations)">
@@ -1667,7 +1667,7 @@
                         <VASSAL.build.widget.PieceSlot entryName="Monticiano" gpid="1915" height="64" width="75">+/null/prototype;Monticiano	piece;;;;/	null;0;0;1915;0</VASSAL.build.widget.PieceSlot>
                     </VASSAL.build.module.map.SetupStack>
                     <VASSAL.build.module.map.SetupStack location="Asciano" name="" useGridLocation="true" x="3538" y="2504">
-                        <VASSAL.build.widget.PieceSlot entryName="Asciano" gpid="1916" height="64" width="75">+/null/prototype;Asciano	piece;;;;/	null;0;0;;0</VASSAL.build.widget.PieceSlot>
+                        <VASSAL.build.widget.PieceSlot entryName="Asciano" gpid="1916" height="64" width="75">+/null/prototype;Asciano	piece;;;;/	null;0;0;1916;0</VASSAL.build.widget.PieceSlot>
                     </VASSAL.build.module.map.SetupStack>
                     <VASSAL.build.module.map.SetupStack location="San Quirico" name="" useGridLocation="true" x="3554" y="2816">
                         <VASSAL.build.widget.PieceSlot entryName="San Quirico" gpid="1917" height="64" width="75">+/null/prototype;San Quirico	piece;;;;/	null;0;0;1917;0</VASSAL.build.widget.PieceSlot>
@@ -1877,20 +1877,20 @@
             </VASSAL.build.module.map.SetupStack>
         </VASSAL.build.module.folder.MapSubFolder>
     </VASSAL.build.module.Map>
-    <VASSAL.build.module.ChartWindow hotkey="72,520" icon="Button-HowToPlay3.png" name="How to Play" text="" tooltip="How to use this module to play Almoravid.">
+    <VASSAL.build.module.ChartWindow hotkey="72,520" icon="Button-how.png" name="How to Play" text="" tooltip="How to use this module to play Almoravid.">
         <VASSAL.build.widget.HtmlChart chartName="How to Play" fileName="howtoplay.html"/>
     </VASSAL.build.module.ChartWindow>
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="38" width="45">+/null/prototype;Ritter	piece;;;;/	null;0;-26;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="38" width="45">+/null/prototype;Cavalieri	piece;;;;/	null;0;-26;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="38" width="45">+/null/prototype;Berrovieri	piece;;;;/	null;0;-26;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="38" width="45">+/null/prototype;Light Horse	piece;;;;/	null;0;-26;662;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="38" width="45">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;-26;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="38" width="45">+/null/prototype;Armigeri	piece;;;;/	null;0;-26;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="38" width="45">+/null/prototype;Villici	piece;;;;/	null;0;-26;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="38" width="45">+/null/prototype;Militia	piece;;;;/	null;0;-26;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="67" width="67">+/null/prototype;Ritter	piece;;;;/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="67" width="67">+/null/prototype;Cavalieri	piece;;;;/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="67" width="67">+/null/prototype;Berrovieri	piece;;;;/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;0;662;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="67" width="67">+/null/prototype;Armigeri	piece;;;;/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;0;0;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;0;0;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
