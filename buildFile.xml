@@ -1875,14 +1875,14 @@
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="38" width="45">+/null/prototype;Ritter	piece;;;;/	null;0;-26;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="38" width="45">+/null/prototype;Cavalieri	piece;;;;/	null;0;-26;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="38" width="45">+/null/prototype;Berrovieri	piece;;;;/	null;0;-26;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="38" width="45">+/null/prototype;Light Horse	piece;;;;/	null;0;-26;662;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="38" width="45">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;-26;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="38" width="45">+/null/prototype;Armigeri	piece;;;;/	null;0;-26;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="38" width="45">+/null/prototype;Villici	piece;;;;/	null;0;-26;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="38" width="45">+/null/prototype;Militia	piece;;;;/	null;0;-26;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Ritter" gpid="658" height="67" width="67">+/null/prototype;Ritter	piece;;;;/	null;0;-26;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Cavalieri" gpid="660" height="67" width="67">+/null/prototype;Cavalieri	piece;;;;/	null;0;-26;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Berrovieri" gpid="0" height="67" width="67">+/null/prototype;Berrovieri	piece;;;;/	null;0;-26;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;-26;662;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;/	null;0;-26;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Armigeri" gpid="672" height="67" width="67">+/null/prototype;Armigeri	piece;;;;/	null;0;-26;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Villici" gpid="666" height="67" width="67">+/null/prototype;Villici	piece;;;;/	null;0;-26;666;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;/	null;0;-26;670;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
@@ -2561,6 +2561,8 @@
         <VASSAL.build.module.PredefinedSetup file="Scen2-InFarVendetta1259-1260.vsav" isMenu="false" name="Scenario B - In Far Vendetta - 1259 to 1260" useFile="true"/>
         <VASSAL.build.module.PredefinedSetup file="Scen3-SantafiorOscura-Early1260.vsav" isMenu="false" name="Scenario C - Santafior Oscura - Early 1260" useFile="true"/>
         <VASSAL.build.module.PredefinedSetup file="Scen4-ArbiaColoratainRosso-Late1260.vsav" isMenu="false" name="Scenario D - Arbia Colorata Rosso - Late 1260" useFile="true"/>
+        <VASSAL.build.module.PredefinedSetup file="Scen5-LasciateOgneSperanza-1261.vsav" isMenu="false" name="Scenario E - Lasciate Ogne Speranza - 1261" useFile="true"/>
+        <VASSAL.build.module.PredefinedSetup file="Scen6-DiSanguetEmpio-1259to1261.vsav" isMenu="false" name="Scenario F - Di Sangue t'Empio - 1259 to 1261" useFile="true"/>
     </VASSAL.build.module.PredefinedSetup>
     <VASSAL.build.module.PredefinedSetup isMenu="false" name="Start With Blank Map" useFile="false"/>
     <VASSAL.build.module.StartupGlobalKeyCommand buttonHotkey="" buttonText="" canDisable="false" deckCount="-1" disabledIcon="" filter="" hotkey="" icon="" name="Welcome Message" propertyGate="" reportFormat="&lt;img src=&quot;d6-purple-1.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-2.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-purple-3.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;b&gt;  $WelcomeMessage$  &lt;/b&gt;&lt;img src=&quot;d6-yellow-4.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-purple-5.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;&lt;img src=&quot;d6-yellow-6.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;" reportSingle="false" singleMap="true" target="MODULE|false|MAP|||||0|0||false|||EQUALS" tooltip="" whenToApply="everyLaunchOfSession"/>
